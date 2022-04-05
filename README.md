@@ -5,8 +5,10 @@
 
 - 🙋‍♀️ Ela/Dela
 - 💻 Desenvolvedora Full Stack JAVA ❤
-- 🚀 Bootcamp Generation
-- 💡 Comunicativa, proativa e criativa.
+- 🚀 Bootcamp [Generation Brasil](https://brazil.generation.org)
+- 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
+- 💡 Comunicativa, proativa e criativa
+
 
 <a href="https://www.linkedin.com/in/esmeraldaneves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/afro.cracia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -20,6 +22,13 @@
 
  ##
   
+   <h3 align="left">Linguagens e Ferramentas:</h3>
+<div style="display: inline_block; padding-right:100">
+<a href="https://www.java.com" target="_blank" title="Java"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/></a> 
+<a href="https://www.mysql.com/" target="_blank" title="MySQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></a>
+<a href="https://postman.com" target="_blank" title="PostMan"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width=width="50" height="50"/></a> 
+<a href="https://spring.io/" target="_blank" title="SpringBoot"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
+   
   <table>
     <tr>
        <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
