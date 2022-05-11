@@ -6,7 +6,7 @@
 - 🙋‍♀️ Ela/Dela
 - 💻 Desenvolvedora Full Stack JAVA ❤
 - 🚀 Bootcamp [Generation Brasil](https://brazil.generation.org)
-- 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
+- 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | React ✨
 - 💡 Comunicativa, proativa e criativa
 
 
